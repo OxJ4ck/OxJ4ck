@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OxJ4ck
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Laravel
